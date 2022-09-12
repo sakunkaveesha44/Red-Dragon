@@ -1,8 +1,8 @@
 {
-  "name": "RED DRAGON BOT",
-  "description": "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘔𝘋 | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
+  "name": "SAKUN KAVEESHA MD BOT",
+  "description": "𝗦𝗔𝗞𝗨𝗡-𝘔𝘋 | By: SAKUN-DRAGONᵀᴹ | ༻꧁☬𝐒𝐀𝐊𝐔𝐍⃢🌹⃢𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬꧂༺̧̧̥࿐",
   "repository": "https://github.com/prabhasha2006/Red-Dragon",
-  "logo": "https://i.ibb.co/VCtXyTK/20220730-002949.jpg",
+  "logo": "https://i.ibb.co/ctBbS57/491049602d9ee201c04e3a57833e4bbd.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
