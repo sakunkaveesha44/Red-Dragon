@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤 My Name is Sakun Kaveesha
-🤷‍♀️How cමොකක්ද ඔයාලට මගෙන් වෙන්න ඔනේ?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️මොකක්ද ඔයාලට මගෙන් වෙන්න ඔනේ?😉` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
